@@ -1,9 +1,10 @@
 ## Battleship
 
-* Built with [Tkinter](https://wiki.python.org/moin/TkInter) (Python GUI)
+* Multi-player
+* Semi-random AI
 * In-game score notifications
 * Fully customizable game options (number of ships, board size)
-* Semi-random AI
+* Built with [Tkinter](https://wiki.python.org/moin/TkInter) (Python GUI)
 
 ### Demo
 ![](img/demo2.gif)
