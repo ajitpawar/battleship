@@ -1,5 +1,5 @@
 ## Battleship
-Python assignment for a 1st year CS course.
+
 * Built with [Tkinter](https://wiki.python.org/moin/TkInter) (Python GUI)
 * In-game score notifications
 * Fully customizable game options (number of ships, board size)
